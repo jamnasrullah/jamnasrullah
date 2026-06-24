@@ -30,7 +30,7 @@ I build modern, scalable and secure web applications.
 
 
 ##  Projects
-
+- QuizyPilot
 - School Management System
 - Form Builder Application
 - Developer Portfolio
