@@ -1,6 +1,6 @@
 # Hi , I'm Nusrullah
 
-## Full Stack Developer | Next.js & Laravel Backend Developer
+## Next.js & Laravel Backend Developer
 
 I build modern, scalable and secure web applications.
 
