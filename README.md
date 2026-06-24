@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi , I'm Nusrullah
 
-<!--
-**jamnasrullah/jamnasrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Next.js & Laravel Backend Developer
 
-Here are some ideas to get you started:
+I build modern, scalable and secure web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technologies
+
+### Frontend
+- Next.js
+- React.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Laravel
+- PHP
+- REST API Development
+- Authentication
+- API Integration
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+
+##  Projects
+
+- School Management System
+- Form Builder Application
+- Developer Portfolio
+- Laravel APIs
+
+
+## Currently Learning
+
+- Advanced Laravel Architecture
+- Next.js Optimization
+- Cloud Deployment
+
+
+##  Contact. 03053594207
+
+LinkedIn: www.linkedin.com/in/jam-nasrullah-1424233a2
+
+Email: jamnasrullah50@gmail.com
