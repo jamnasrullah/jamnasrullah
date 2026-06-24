@@ -48,3 +48,28 @@ I build modern, scalable and secure web applications.
 LinkedIn: www.linkedin.com/in/jam-nasrullah-1424233a2
 
 Email: jamnasrullah50@gmail.com
+
+---
+
+##  GitHub Stats
+
+![Nusrullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamnasrullah&show_icons=true&theme=tokyonight)
+
+
+##  Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamnasrullah&layout=compact&theme=tokyonight)
+
+
+##  Skills
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+
+##  Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jamnasrullah)
