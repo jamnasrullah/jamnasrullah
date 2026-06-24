@@ -7,15 +7,13 @@ I build modern, scalable and secure web applications.
 ##  Technologies
 
 ### Frontend
-- Next.js
-- React.js
 - JavaScript
 - TypeScript
 - Tailwind CSS
 
 ### Backend
 - Laravel
-- PHP
+- Next.js
 - REST API Development
 - Authentication
 - API Integration
