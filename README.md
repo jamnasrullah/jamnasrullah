@@ -20,6 +20,7 @@ I build modern, scalable and secure web applications.
 
 ### Database
 - MySQL
+- MongoDB
 - PostgreSQL
 
 ### Tools
